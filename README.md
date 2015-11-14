@@ -22,4 +22,5 @@ Grunt / scss / compass
 
 
 Now your save will trigger livereload. Probably cant have this in our environment. but it is cool :)
+##
 5. test that the preprocessor is working by editing scss files.  
