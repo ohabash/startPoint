@@ -1,0 +1,2 @@
+# startPoint
+Grunt / scss / compass
