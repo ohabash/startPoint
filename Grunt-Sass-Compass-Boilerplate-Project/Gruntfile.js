@@ -117,7 +117,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
 
   grunt.registerTask('build', [
-    'jshint',
+    // 'jshint',
     'uglify:dist',
     'compass:dist'
   ]);
