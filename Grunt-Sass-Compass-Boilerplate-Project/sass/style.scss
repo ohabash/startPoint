@@ -1,0 +1,10 @@
+@import 'compass';
+
+$fs: 300px;
+
+body{
+	background: red;
+	h1{
+		font-size: $fs;
+	}
+}
