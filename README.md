@@ -23,7 +23,7 @@ Grunt / scss / compass
 
 ##
 
-Now your saves will trigger livereload. Probably cant have this in our environment. but it is cool :) .... if everything is working you can test it by changing a scss file and note the differnce on index.html
+- Now your saves will trigger livereload. Probably cant have this in our environment. but it is cool :) .... if everything is working you can test it by changing a scss file and note the differnce on index.html
 
 * when ready for production run 
 
