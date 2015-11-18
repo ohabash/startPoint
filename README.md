@@ -1,7 +1,7 @@
 # Frontend startPoint
 Grunt / scss / compass
 
-Prep: Your machine will need nodeJS and Grunt installed locally before doing the following
+Prep: Your machine or server will need nodeJS and Grunt installed globally before doing the following.
 
 
 #The Setup
