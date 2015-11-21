@@ -32,7 +32,8 @@ module.exports = function (grunt) {
     connect: {
       server: {
         options: {
-          port: 8000
+          port: 8000,
+          base: 'www-root'
         }
       }
     },
@@ -117,7 +118,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
 
   grunt.registerTask('build', [
-    // 'jshint',
+    'jshint',
     'uglify:dist',
     'compass:dist'
   ]);
@@ -127,8 +128,7 @@ module.exports = function (grunt) {
     'jshint',
     'uglify:dev',
     'compass:dev',
-    'watch',
-    'connect'
+    'watch'
   ]);
 
 };

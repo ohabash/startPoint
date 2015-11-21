@@ -2,8 +2,8 @@
   "name": "Grunt-Sass-Compass-Boilerplate",
   "version": "1.0.0",
   "description": "",
-  "author": "Rob Davarnia <robdvr@gmail.com>",
-  "license": "GPL-2.0",
+  "author": "Omar Habash <ContactOmarNow@gmail.com>",
+  "license": "1.0",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-compass": "^1.0.1",
